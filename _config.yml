@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Caigui Jiang / Site Title"
+title                    : "Dr. Caigui Jiang"
 title_separator          : "-"
 name                     : &name "Caigui Jiang"
 description              : &description "Research scientist at KAUST"
