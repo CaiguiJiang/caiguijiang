@@ -17,24 +17,19 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2019 - Present: Research Scientist
+  * VCC/KAUST
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2018-Jan. 2019: Research Scientist
+  * ICSI/UC Berkeley
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Aug 2016-Jan 2018: Postdoc
+  * Max Planck Institute for Informatics
+  
+* Jun 2015- Aug 2015: Summer Intern
+  * Microsoft Research Asia
+
+  
 
 Publications
 ======
@@ -54,6 +49,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
