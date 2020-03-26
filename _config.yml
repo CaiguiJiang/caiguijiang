@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Caigui Jiang / Site Title"
 title_separator          : "-"
 name                     : &name "Caigui Jiang"
-description              : &description "personal description"
+description              : &description "Research scientist at KAUST"
 url                      : https://caiguijiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "caiguijiang/caiguijiang.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Caigui Jiang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research scientist at KAUST"
+  location         : "KSA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=5uDZVvgAAAAJ&hl=en"
   email            :  caigui.jiang@kaust.edu.sa
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
